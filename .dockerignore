@@ -1,0 +1,5 @@
+**/__pycache__
+.venv
+crop_224
+docs
+*.ipynb
